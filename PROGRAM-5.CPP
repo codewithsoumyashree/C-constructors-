@@ -1,0 +1,2 @@
+/*WAP to demonstrate the order of call of constructors and destructors for a
+class*/
